@@ -17,6 +17,7 @@
 ## Installation
 
 `yarn add jonashen/react-native-custom-qr-codes`
+
 If you are not using Expo, you will also have to manually link the [react-native-svg library](https://github.com/react-native-community/react-native-svg).  
 Follow [the instructions here](https://github.com/react-native-community/react-native-svg#manual) to do this.
 
